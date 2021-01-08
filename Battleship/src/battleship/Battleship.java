@@ -22,7 +22,7 @@ public class Battleship extends Ship {
 	 */
 	@Override
 	public String getShipType() {
-		
+		System.out.println("JJF change 01/07/2021");
 		return (Battleship.name);
 	}
 	
